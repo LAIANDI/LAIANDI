@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="65%" alt="banner" />
+<img src="assets/keqing.jpg" width="320" alt="keqing" />
+
+<h1>LAD</h1>
+
+<sub>LAIANDI · pwn / binary exploitation</sub>
 
 <a href="https://laiandi.github.io"><img src="https://img.shields.io/badge/Blog-laiandi.github.io-ffb7c5?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog" /></a>
 <a href="https://github.com/LAIANDI/ctf-writeups"><img src="https://img.shields.io/badge/Writeups-ctf--writeups-c8a2ff?style=for-the-badge&logo=github&logoColor=white" alt="Writeups" /></a>
