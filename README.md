@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%8C%B8%20pwn-ffb7c5?style=for-the-badge" alt="pwn" />
-<img src="https://img.shields.io/badge/%F0%9F%8D%A1%20heap-c8a2ff?style=for-the-badge" alt="heap" />
-<img src="https://img.shields.io/badge/%F0%9F%8E%80%20CTF-a2d2ff?style=for-the-badge" alt="CTF" />
-<img src="https://img.shields.io/badge/%E2%9C%A8%202028-a8e6cf?style=for-the-badge" alt="2028" />
+<img src="https://img.shields.io/badge/pwn-ffb7c5?style=for-the-badge" alt="pwn" />
+<img src="https://img.shields.io/badge/heap-c8a2ff?style=for-the-badge" alt="heap" />
+<img src="https://img.shields.io/badge/CTF-a2d2ff?style=for-the-badge" alt="CTF" />
+<img src="https://img.shields.io/badge/2028-a8e6cf?style=for-the-badge" alt="2028" />
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
 
 </div>
 
-## 🌸 关于我
+## 关于我
 
 |  |  |
 |:--|:--|
@@ -28,7 +28,7 @@
 | **方向** | Linux userland exploitation · glibc heap · CTF pwn |
 | **偏好** | House of Apple 2 · House of Some · seccomp ORW |
 
-## 🍡 精选
+## 精选
 
 | 题目 | 赛事 | 考点 |
 |:--|:--|:--|
@@ -39,11 +39,11 @@
 
 → 更多见 [**ctf-writeups**](https://github.com/LAIANDI/ctf-writeups)
 
-## 🎀 出题
+## 出题
 
 **ADCTF 2026 · pwn**：6 道题，难度曲线 `ret2win → shellcode → fmt → pivot → ORW → heap`。
 
-## ✨ 工具箱
+## 工具箱
 
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
@@ -56,13 +56,13 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 🌙 现在
+## 现在
 
-- 🔭 在做：把零散题解整理成可复现的作品集
-- 🌱 在学：真实漏洞（CVE）复现、Linux 内核基础
-- 💬 兴趣：heap feng shui、`io_uring`、KVM
+- 在做：把零散题解整理成可复现的作品集
+- 在学：真实漏洞（CVE）复现、Linux 内核基础
+- 兴趣：heap feng shui、`io_uring`、KVM
 
-## 💌 链接
+## 链接
 
 [Blog](https://laiandi.github.io) · [GitHub](https://github.com/LAIANDI)
 
