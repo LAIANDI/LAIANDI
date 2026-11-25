@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="banner" />
+<img src="assets/banner.jpg" width="65%" alt="banner" />
 
 <a href="https://laiandi.github.io"><img src="https://img.shields.io/badge/Blog-laiandi.github.io-ffb7c5?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog" /></a>
 <a href="https://github.com/LAIANDI/ctf-writeups"><img src="https://img.shields.io/badge/Writeups-ctf--writeups-c8a2ff?style=for-the-badge&logo=github&logoColor=white" alt="Writeups" /></a>
@@ -18,17 +18,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=E8749A&center=true&vCenter=true&width=560&lines=Linux+userland+exploitation;glibc+heap+%C2%B7+FSOP+%C2%B7+ORW;CTF+pwn+%2F+binary+exploitation" alt="typing" />
 
 </div>
-
-```console
-lad@github:~$ neofetch
-       .--.
-      |o_o |    LAD / LAIANDI
-      |:_/ |    GDUT · AD 攻防工作室
-     //   \ \   pwn / glibc heap / CTF
-    (|     | )  nice to meet you
-   /'\_   _/`\
-   \___)=(___/
-```
 
 ## 🌸 关于我
 
