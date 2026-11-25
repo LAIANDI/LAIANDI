@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e8,50:ffb7c5,100:c8a2ff&height=220&section=header&text=LAD&fontSize=70&fontColor=ffffff&desc=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81LAD%20%E3%81%A7%E3%81%99&descSize=18&descAlignY=78&animation=fadeIn" width="100%" alt="header" />
+<img src="assets/banner.jpg" width="100%" alt="banner" />
 
 <a href="https://laiandi.github.io"><img src="https://img.shields.io/badge/Blog-laiandi.github.io-ffb7c5?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog" /></a>
 <a href="https://github.com/LAIANDI/ctf-writeups"><img src="https://img.shields.io/badge/Writeups-ctf--writeups-c8a2ff?style=for-the-badge&logo=github&logoColor=white" alt="Writeups" /></a>
@@ -25,19 +25,19 @@ lad@github:~$ neofetch
       |o_o |    LAD / LAIANDI
       |:_/ |    GDUT · AD 攻防工作室
      //   \ \   pwn / glibc heap / CTF
-    (|     | )  よろしくお願いします
+    (|     | )  nice to meet you
    /'\_   _/`\
    \___)=(___/
 ```
 
-## 🌸 プロフィール
+## 🌸 关于我
 
 |  |  |
 |:--|:--|
-| **名前** | LAD / LAIANDI |
-| **所属** | 広東工業大学 · AD 攻防工作室 |
+| **名字** | LAD / LAIANDI |
+| **所属** | 广东工业大学 · AD 攻防工作室 |
 | **方向** | Linux userland exploitation · glibc heap · CTF pwn |
-| **好き** | House of Apple 2 · House of Some · seccomp ORW |
+| **偏好** | House of Apple 2 · House of Some · seccomp ORW |
 
 ## 🍡 精选
 
@@ -50,7 +50,7 @@ lad@github:~$ neofetch
 
 → 更多见 [**ctf-writeups**](https://github.com/LAIANDI/ctf-writeups)
 
-## 🎀 出題
+## 🎀 出题
 
 **ADCTF 2026 · pwn**：6 道题，难度曲线 `ret2win → shellcode → fmt → pivot → ORW → heap`。
 
@@ -67,19 +67,19 @@ lad@github:~$ neofetch
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 🌙 今
+## 🌙 现在
 
-- 🔭 作業中：把零散题解整理成可复现的作品集
-- 🌱 勉強中：真实漏洞（CVE）复现、Linux 内核基础
-- 💬 興味：heap feng shui、`io_uring`、KVM
+- 🔭 在做：把零散题解整理成可复现的作品集
+- 🌱 在学：真实漏洞（CVE）复现、Linux 内核基础
+- 💬 兴趣：heap feng shui、`io_uring`、KVM
 
-## 💌 リンク
+## 💌 链接
 
 [Blog](https://laiandi.github.io) · [GitHub](https://github.com/LAIANDI)
 
 <div align="center">
 
-`かわいいは正義。heap も正義。`
+`可爱即正义，heap 也是。`
 
 <sub>只在本机隔离环境和授权目标上做安全研究。</sub>
 
