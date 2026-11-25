@@ -14,7 +14,6 @@ pwn / binary exploitation / CTF
 - 广工 AD 攻防工作室成员，方向是 Linux 用户态漏洞利用与 CTF Pwn。
 - 做过：栈溢出、格式化字符串、栈迁移、`seccomp` 下的 ORW、glibc 堆（UAF / tcache poisoning / FSOP）。
 - 出题：ADCTF 2026 pwn 方向 6 道题，覆盖 ret2win → shellcode → fmt → pivot → ORW → heap 的难度曲线。
-- 2028 届，寻找 2027 年暑期实习（深圳 / 广州）。
 
 ## 精选
 
